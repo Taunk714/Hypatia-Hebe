@@ -1,0 +1,18 @@
+{
+    "name": "feedback",
+    "description": "bot feedback",
+    "options": [
+        {
+            "name": "type",
+            "description": "1 for Hebe问题反馈, 2 for bot需求",
+            "type": 4,
+            "required": true
+        },
+        {
+            "name": "description",
+            "description": "描述",
+            "type": 3,
+            "required": true
+        }
+    ]
+}

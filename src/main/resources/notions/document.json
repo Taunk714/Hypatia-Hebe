@@ -1,0 +1,62 @@
+{
+    "parent": { "type": "database_id", "database_id": "dcb2fd124b114d349484887e6090cb5b" },
+    "properties": {
+        "标题解析": {
+            "select": {
+                "name": "Option 1"
+            }
+        },
+        "类型": {
+            "select": {
+                "name": "B"
+            }
+        },
+        "资料链接": {
+            "url": ""
+        },
+        "File": {
+            "select": {
+                "name": "Option 1"
+            }
+        },
+        "发布者": {
+            "select": {
+                "name": "Option 1"
+            }
+        },
+        "tag": {
+            "multi_select": [
+                {
+                    "name": "B"
+                },
+                {
+                    "name": "C"
+                }
+            ]
+        },
+        "原文": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Some more text with "
+                    }
+                }
+            ]
+        },
+        "提交人": {
+            "select": {
+                "name": "Option 1"
+            }
+        },
+        "DiscordURL": {
+            "url": "bj"
+        },
+        "提交时间": {
+            "date": {
+                "start": "2020-12-08T12:00:00Z",
+                "time_zone": "Asia/Shanghai"
+            }
+        }
+    }
+}
